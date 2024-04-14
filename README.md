@@ -12,13 +12,13 @@ O OWASP TOP 10 é uma lista de dez vulnerabilidades críticas de segurança em a
 
 ## Conteúdo
 
-1. [Broken Access Control](exemplos/A01-Broken Access Control/README.md)
-2. [Cryptographic Failures](exemplos/A02-Cryptographic Failures/README.md)
+1. [Broken Access Control](exemplos/A01-Broken%20Access%20Control/README.md)
+2. [Cryptographic Failures](exemplos/A02-Cryptographic%20Failures/README.md)
 3. [Injection](exemplos/A03-Injection/README.md)
-4. [Insecure Design](exemplos/A04-Insecure Design/README.md)
-5. [Security Misconfiguration](exemplos/A05-Security Misconfigurations/README.md)
-6. [Vulnerable and Outdated Components](exemplos/A06-Vulnerable and Outdated Components/README.md)
-7. [Identification and Authentication Failures](exemplos/A07-Identification and Authentication Failures/README.md)
-8. [Software and Data Integrity Failures](exemplos/A08-Software and Data Integrity Failures/README.md)
-9. [Security Logging and Monitoring Failures](exemplos/A09-Security Logging and Monitoring Failures/README.md)
-10. [Server-Side Request Forgery (SSRF)](exemplos/A10-Server-Side Request Forgery/README.md)
+4. [Insecure Design](exemplos/A04-Insecure%20Design/README.md)
+5. [Security Misconfiguration](exemplos/A05-Security%20Misconfigurations/README.md)
+6. [Vulnerable and Outdated Components](exemplos/A06-Vulnerable%20and%20Outdated%20Components/README.md)
+7. [Identification and Authentication Failures](exemplos/A07-Identification%20and%20Authentication%20Failures/README.md)
+8. [Software and Data Integrity Failures](exemplos/A08-Software%20and%20Data%20Integrity%20Failures/README.md)
+9. [Security Logging and Monitoring Failures](exemplos/A09-Security%20Logging%20and%20Monitoring%20Failures/README.md)
+10. [Server-Side Request Forgery (SSRF)](exemplos/A10-Server-Side%20Request%20Forgery/README.md)
